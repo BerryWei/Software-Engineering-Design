@@ -1,0 +1,5 @@
+6000
+patient Mark 600
+BloodPressureSensor sensor1 BloodPressure1.dataset 120 180
+PulseSensor sensor2 PulseSensor1.dataset 70 150
+TemperatureSensor sensor3 TemperatureSensor1.dataset 35 38
